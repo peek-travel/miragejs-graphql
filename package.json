@@ -1,5 +1,5 @@
 {
-  "name": "@martinbee/miragejs-graphql",
+  "name": "@peekops/miragejs-graphql",
   "version": "0.1.16",
   "description": "Forked from: A library for handling GraphQL requests with Mirage JS",
   "main": "dist/index.js",
